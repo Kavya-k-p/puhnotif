@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "775421953110",
-    "project_id": "push-1b9b9",
-    "storage_bucket": "push-1b9b9.appspot.com"
+    "project_number": "24837458475",
+    "project_id": "kavya-push",
+    "storage_bucket": "kavya-push.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:775421953110:android:b436e82c2bdc53b41fe7f7",
+        "mobilesdk_app_id": "1:24837458475:android:a4a53bfecd92c42dc6f86e",
         "android_client_info": {
-          "package_name": "com.example.push"
+          "package_name": "com.example.pushon3App"
         }
       },
       "oauth_client": [
         {
-          "client_id": "775421953110-eu84qjmem7lhh9fv9ndqahe1485nn7o0.apps.googleusercontent.com",
+          "client_id": "24837458475-dbuvgl7bnuhb8aakq5dfelrekmufmukq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAmXV_DrwXQrVAesyqFDdxG45yCS8zKr-s"
+          "current_key": "AIzaSyBQlV8JQFlX6c-i2VDa9NDbnIjK_5JTp_M"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "775421953110-eu84qjmem7lhh9fv9ndqahe1485nn7o0.apps.googleusercontent.com",
+              "client_id": "24837458475-dbuvgl7bnuhb8aakq5dfelrekmufmukq.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
